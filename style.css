@@ -33,8 +33,8 @@ body {
     width: 265px;
 }
 
-.todoapp h2 {
-    color:red;
+.todoapp h1 {
+    color: red;
     margin-bottom: 50px;
     font-size: 151px;
     font-weight: bolder;
